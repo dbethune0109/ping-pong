@@ -1,9 +1,10 @@
-# Project Title
+#Ping Pong solo Assignment
 
-    This is Epicodus Solo project for week three. the project is to have the user enter a number and return an array of numbers with "ping inserted instead of 3", "pong" inserted instead of 5, and if the number is divisible by both "pingpong" is inseted. I started with HTML, as with every project, so as to set my id tags to set up for CSS and Javascript. THis was pretty easy considering we just did roman numerals yesterday and it was pretty fresh in my mind.
-    I set my variable to numbers and results to match the tags in index.html, set my function pingpong to coincide with final set my array to numbers used the for loop if a number was divisible to 15 then the command push inserted pingpong if 3 push  command inserted ping and 5 for pong. the else statement at the end pushed (i) which is the rest of the numbers in the array.
-    I  then used numbers.join to put a , and a space in between, and finally a return call for result.
-     The business logic was easy part set the id #s used the submit function set the variable of final and appended it to result. I found the .empty for a refresh on w3schools website.
+  This was a challenge at using, not only the things we have learned the previous weeks. It also incorporated Loops and Arrays into the mix. I chose to use the "for" loop command, seeting my variables in the user logic section to "numbers" and "final". I used pingpong as the function.
+  The if/else statements setting if the numbers in the array were divisible by 3, 5, or 15 that the numbers.push would insert those in the array. Then the result=numbers.join(", ") put them all in a neat line with the comma and space in between. the return command = restult called it.
+  As for the business logic side, it was all Jquery. I learned a new command from W3schools .empty brings up a whole new array when a new number is entered.
+
+
     ```
 
 ## Getting Started
