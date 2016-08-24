@@ -19,12 +19,7 @@ Give examples
 ``` ""this is exert from .js file""
 
 
-if (i % 15 === 0) {
-  numbers.push("pingpong");
-} else if (i % 3 === 0) {
-  numbers.push("ping");
-} else if (i % 5 === 0) {
-  numbers.push("pong");
+ex; 1,2,ping,4,5,pong,7,8,ping,10,11,ping,13,14,pingpong
 
 
 
@@ -33,16 +28,7 @@ Tests:
 I ran developer tools and console.log to make sure everything was working.
 
 ```
-Give an example
-```
 
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 ## Deployment
 

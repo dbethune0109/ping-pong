@@ -1,4 +1,4 @@
-//User interface logic
+//business
 var numbers = [];
 var result = "";
 
@@ -22,7 +22,7 @@ function pingPong (final) {
   return result;
   //The string conversions of all array elements are joined into one string. If an element is undefined or null, it is converted to the empty string.
 }
-//business logic
+//user
 $(function(){
   $("form#userInput").submit(function(event){
     $("#result").empty();
