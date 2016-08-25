@@ -5,8 +5,6 @@
   As for the business logic side, it was all Jquery. I learned a new command from W3schools .empty brings up a whole new array when a new number is entered.
 
 
-    ```
-
 ## Getting Started
 To use this program you will need a basic web browser above IE 8, Chrome is what I used to work on it, so it works best.
 
@@ -18,21 +16,10 @@ web browser, internet connection
 Give examples
 ``` ""this is exert from .js file""
 
-
 ex; 1,2,ping,4,5,pong,7,8,ping,10,11,ping,13,14,pingpong
-
-
-
 
 Tests:
 I ran developer tools and console.log to make sure everything was working.
-
-```
-
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 * GIT
@@ -52,3 +39,4 @@ https://www.github.com/dbethune0109
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
+Epicodus
