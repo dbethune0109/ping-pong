@@ -1,8 +1,6 @@
 #Ping Pong solo Assignment
 
-  This was a challenge at using, not only the things we have learned the previous weeks. It also incorporated Loops and Arrays into the mix. I chose to use the "for" loop command, seeting my variables in the user logic section to "numbers" and "final". I used pingpong as the function.
-  The if/else statements setting if the numbers in the array were divisible by 3, 5, or 15 that the numbers.push would insert those in the array. Then the result=numbers.join(", ") put them all in a neat line with the comma and space in between. the return command = restult called it.
-  As for the business logic side, it was all Jquery. I learned a new command from W3schools .empty brings up a whole new array when a new number is entered.
+ This is week 3 solo assignment. The use of loops and arrays. If the number is divisible by 3, replace it with "ping". If it is divisible by 5, then replace it with "pong". If the number is divisible by 15, then replace it with "pingpong". I started by setting my active directories, HTML, .js, and .css files. I then went through our weeks lessons and expounded upon them by researching online for those terms. 
 
 
 ## Getting Started
@@ -40,3 +38,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 Epicodus
+w3schools.com
+overstack.com
