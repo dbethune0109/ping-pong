@@ -12,9 +12,9 @@ web browser, internet connection
 
 ```
 Give examples
-``` ""this is exert from .js file""
 
-ex; 1,2,ping,4,5,pong,7,8,ping,10,11,ping,13,14,pingpong
+ex input: 15
+ex output: 1,2,ping,4,5,pong,7,8,ping,10,11,ping,13,14,pingpong
 
 Tests:
 I ran developer tools and console.log to make sure everything was working.
